@@ -9,5 +9,5 @@ msgstr ""
 
 #: 
 msgid "Nyt ord!"
-msgstr ""
+msgstr "Nyt ord!"
 
